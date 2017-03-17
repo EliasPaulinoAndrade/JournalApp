@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backPages">#373759</color>
+    <color name="colorTitle">#76647d</color>
+    <color name="colorLoginArea">#ffffff</color>
+    <color name="SelectedLoginTop">#797b8c</color>
+    <color name="defaultLoginTop">#76647d</color>
+    <color name="purple">#a288d2</color>
+    <color name="pink">#f46f9d</color>
+    <color name="blue">#47a1de</color>
+    <color name="green">#7de380</color>
+</resources>
